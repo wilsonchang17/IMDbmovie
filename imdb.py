@@ -9,7 +9,7 @@ for i in range(len(genre2)):
     print(genre2[i])
 print()
 name = input("請輸入查詢類型號碼: ")
-if(int(name)>20):
+if(int(name)>20 or int(name)<1):
     print("類型不符合")
 else:
     print()
