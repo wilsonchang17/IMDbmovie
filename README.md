@@ -1,7 +1,7 @@
 # Finding top rated movies on IMDb🎬
 ## I am a movie lover since I was a kid, so I wrote this little program to check the top rated movies on IMDb's website.
 ## How to use👇<br> Input the number of the specific genre you want to search and the program will show you the top 20 rated movies in that genre.
-## Somethong you need to do before excute the program
+## Some packages you need to download before excuting the program
 ```python
 pip install requests
 ```
