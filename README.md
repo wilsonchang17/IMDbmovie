@@ -9,10 +9,10 @@ pip install requests
 pip install beautifulsoup4
 ```
 ### Input the number
-<img width="636" alt="Screen Shot 2021-09-02 at 1 57 54 PM" src="https://user-images.githubusercontent.com/79236612/131789931-4e59957a-6b5e-4e5a-a490-6d75b804d5ad.png">
+<img width="661" alt="Screen Shot 2021-09-02 at 2 53 01 PM" src="https://user-images.githubusercontent.com/79236612/131796690-f9535dd0-9a8c-4e2c-9377-ffd9bfdab545.png">
 
 ### Output example below👇
-<img width="1032" alt="Screen Shot 2021-09-02 at 2 06 50 PM" src="https://user-images.githubusercontent.com/79236612/131790888-9b3bcdf5-1b3c-4ede-bb69-586905f91d54.png">
+<img width="1016" alt="Screen Shot 2021-09-02 at 2 53 30 PM" src="https://user-images.githubusercontent.com/79236612/131796743-d5b8833a-1da9-4b00-b955-30296d592da1.png">
 
 ## Please feel free to tell me if there is any proplem~
 
