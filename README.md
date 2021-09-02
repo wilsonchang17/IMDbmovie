@@ -8,7 +8,9 @@ pip install requests
 ```python
 pip install beautifulsoup4
 ```
-<img width="636" alt="Screen Shot 2021-09-02 at 1 57 54 PM" src="https://user-images.githubusercontent.com/79236612/131789931-4e59957a-6b5e-4e5a-a490-6d75b804d5ad.png"><br>Output example below👇
+### Input the number
+<img width="636" alt="Screen Shot 2021-09-02 at 1 57 54 PM" src="https://user-images.githubusercontent.com/79236612/131789931-4e59957a-6b5e-4e5a-a490-6d75b804d5ad.png">
+### Output example below👇
 <img width="1032" alt="Screen Shot 2021-09-02 at 2 06 50 PM" src="https://user-images.githubusercontent.com/79236612/131790888-9b3bcdf5-1b3c-4ede-bb69-586905f91d54.png">
 ## Please feel free to tell me if there is any proplem~
 
