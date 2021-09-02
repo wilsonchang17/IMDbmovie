@@ -22,8 +22,6 @@ else:
         count += 1
 
     #print(url)
-    #browser = webdriver.Chrome("D:\google download\chromedriver_win32 (1)\chromedriver.exe")
-    #browser.get(url)
 
     html = requests.get(url)
     html.encoding = 'utf8'
@@ -35,7 +33,6 @@ else:
     for i in data:
         temp = i.text.replace("\n","")
         name.append(temp)
-        #print(i.text.replace("\n",""))
         count += 1
         if count == 20:
             break
@@ -44,7 +41,6 @@ else:
     count = 0
     certificate = []
     for i in data2:
-        #print(i.text.replace("\n",""))
         certificate.append(i.text.replace("\n",""))
         count += 1
         if count == 20:
@@ -54,7 +50,6 @@ else:
     count = 0
     runtime = []
     for i in data3:
-        #print(i.text.replace("\n",""))
         runtime.append(i.text.replace("\n",""))
         count += 1
         if count == 20:
@@ -64,7 +59,6 @@ else:
     count = 0
     rate = []
     for i in data4:
-        #print(i.text.replace("\n",""))
         rate.append(i.text.replace("\n",""))
         count += 1
         if count == 20:
@@ -74,7 +68,6 @@ else:
     count = 0
     dir = []
     for i in data5:
-        #print(i.text.replace("\n",""))
         dir.append(i.text[5:].replace("\n","").replace("|","\n演員： ").replace("     ","").replace(":",": "))
         count += 1
         if count == 20:
