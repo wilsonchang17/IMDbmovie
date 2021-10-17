@@ -2,7 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 
 
-
+genre = ["Action","Adventure","Animation","Biography","Comedy","Crime","Drama","Family","Fantasy","History","Horror","Music","Musical","Mystery","Romance","Sci-Fi","Sport","Thriller","War","Western"]
+genre2 = ["1:Action","2:Adventure","3:Animation","4:Biography","5:Comedy","6:Crime","7:Drama","8:Family","9:Fantasy","10:History","11:Horror","12:Music","13:Musical","14:Mystery","15:Romance","16:Sci-Fi","17:Sport","18:Thriller","19:War","20:Western"]
 print("類型選擇:")
 for i in range(len(genre2)):
     print(genre2[i])
